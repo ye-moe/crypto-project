@@ -71,6 +71,9 @@ https://github.com/ye-moe/crypto-project
 
 ---
 
+### Dashboard
+![Dashboard Screenshot](./dashboard.png)
+
 ## Project Structure
 
 ```txt
