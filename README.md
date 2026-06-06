@@ -74,6 +74,15 @@ https://github.com/ye-moe/crypto-project
 ### Dashboard
 ![Dashboard Screenshot](./dashboard.png)
 
+### Watchlist
+![Watchlist Screenshot](./watchlist.png)
+
+### Coin Detail
+![Coin Details Screenshot](./coin-details.png)
+
+### Portfolio
+![Portfolio Screenshot](./portfolio.png)
+
 ## Project Structure
 
 ```txt
