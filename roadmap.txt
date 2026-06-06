@@ -1,0 +1,7 @@
+1. Backend fallback/caching
+2. Frontend loading skeletons
+3. Watchlist UI
+4. Portfolio simulator UI
+5. Authentication
+6. Database
+7. Real-time Socket.IO prices
