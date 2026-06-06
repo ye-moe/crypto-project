@@ -274,7 +274,7 @@ function Portfolio() {
             <h2 className="text-3xl font-bold">Portfolio Simulator</h2>
             <p className="mt-2 max-w-2xl text-slate-600 dark:text-slate-400">
               Track simulated crypto holdings using live market prices from your
-              backend API. This is saved locally in your browser for now.
+              backend API. The data is saved locally in your browser for now.
             </p>
           </div>
 
